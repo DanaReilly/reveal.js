@@ -27,8 +27,7 @@ module.exports = function(grunt) {
 				src: 'js/reveal.js',
 				dest: 'js/reveal.min.js'
 			}
-		},
-
+ 		},
 		sass: {
 			core: {
 				files: {
